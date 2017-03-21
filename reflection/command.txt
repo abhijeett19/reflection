@@ -1,0 +1,5 @@
+git remote---> to view remote repository
+git remote add origin https://github.com/abhijeett19/reflection.git
+"origin" <-- can be any name
+git push origin master ---> to push the local files on git hub
+git pull origin master --> to pull new file from github
