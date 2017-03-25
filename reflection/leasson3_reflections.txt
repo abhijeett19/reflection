@@ -22,9 +22,9 @@ stored locally?
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
-    Fill in your answer here
+Using varous other tools like svn...Manausl sharing of file is messy and casuse errror.
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+When we are not sure of the changes or when multiple team are woring on same code.
